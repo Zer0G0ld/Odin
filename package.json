@@ -1,7 +1,7 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "<P> • Odin é um projeto de Inteligência Artificial que estou pensando em fazer </p> <p> • O projeto está atrasado por conta que meu Pc quebrou então tô fazendo o que posso no meu celular<p>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
     "@types/node": "^18.0.6",
     "node-fetch": "^3.2.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odin-Hat/Odin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Odin-Hat/Odin/issues"
+  },
+  "homepage": "https://github.com/Odin-Hat/Odin#readme"
 }
